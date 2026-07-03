@@ -36,7 +36,7 @@ Avartanā adalah aplikasi mobile berbasis UI/UX yang dirancang untuk mendukung g
 
 - Akbar Achmad Budiman
 - Rindiani Lutfia Romil
-- Nashwa Tsabita Ummaya (MBG)
+- Nashwa Tsabita Ummaya 
 
 ## 📄 License
 
